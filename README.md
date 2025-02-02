@@ -1,6 +1,6 @@
-- 👋 Hi, I'm Manav for @prodwithvnm
-- 👀 I’m interested in Hybrid App Development
-- 🌱 I’m currently learning Flutter
+- 👋 Hi, I'm Manav
+- 👀 I’m interested in developing amazing apps and websites
+- 🌱 I’m currently learning Javascript
 - 📫 You can reach out to me on manavarora191100@gmail.com
 
 <!---
